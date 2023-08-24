@@ -1,4 +1,4 @@
-# Time Drift Keeper - CLI app for multi-server time auto-sync
+# TimePing - CLI app for multi-server clock auto-sync
 ### written in Rust
 
-## Project is in development stage...
+## Project is in the development stage...
