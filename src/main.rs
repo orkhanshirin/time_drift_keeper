@@ -58,7 +58,7 @@ fn measure_time_drift() -> io::Result<()> {
 fn main() -> io::Result<()> {
     let matches = App::new("Time Drift CLI Tool")
         .version("1.0")
-        .author("Your Name")
+        .author("Orkhan Shirin")
         .about("Records time or measures time drift")
         .arg(
             Arg::with_name("action")
